@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 inset the ingedients of an apple pie here!
-=======
+
 2 apples
 2 pies
 2 creamsz
-<<<<<<< HEAD
->>>>>>> ideas
-=======
-2 bags of fun
->>>>>>> ideas
+1 bags of fun
+4 bags of sugar
+
+
+
